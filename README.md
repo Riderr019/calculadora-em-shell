@@ -1,2 +1,2 @@
 # calculadora-em-shell
-calculo de adição potenciação divisão multiplicação adição e subtração 
+Este é o meu primeiro codigo em shell script,fiz ele direto pelo termux.
