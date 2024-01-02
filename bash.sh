@@ -1,5 +1,6 @@
 #!/bin/bash
-#-Variaveia
+clear
+#-Variavel
 declare _N1
 declare _N2
 
